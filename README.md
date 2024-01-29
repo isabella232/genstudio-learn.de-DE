@@ -2,16 +2,16 @@
 source-git-commit: 2b9678f7f2d11a464f40cd68984ac90a3b44c7dd
 workflow-type: tm+mt
 source-wordcount: '483'
-ht-degree: 0%
+ht-degree: 36%
 
 ---
 # Artikel beitragen
 
-Wir freuen uns über Beiträge von unserer Community sowie von Adobe-Mitarbeitenden von außerhalb der Dokumentations-Teams.
+Wir freuen uns über Beiträge aus unserer Community sowie von Adobe-Mitarbeitern, die nicht in den Dokumentations-Teams arbeiten.
 
 ## Adobe Open Source-Verhaltenskodex
 
-Für dieses Projekt gilt der [Adobe Open Source-Verhaltenskodex](code-of-conduct.md) bzw. der [.NET Foundation-Verhaltenskodex](https://dotnetfoundation.org/code-of-conduct). Weitere Informationen finden Sie in [diesem Artikel](contributing.md).
+Dieses Projekt beachtet den [Adobe Open Source Code of Conduct](code-of-conduct.md) bzw. den [.NET Foundation Code of Conduct](https://dotnetfoundation.org/code-of-conduct). Weitere Informationen finden Sie in [diesem Artikel](contributing.md).
 
 ## Beitrag zum Adobe-Inhalt
 
@@ -29,9 +29,9 @@ Wenn Sie eine kleinere Aktualisierung vornehmen:
 1. Unter &quot;War dieser Inhalt hilfreich?&quot; Banner, das unten im Browser-Fenster angezeigt wird, klicken Sie auf **Detaillierte Feedback-Optionen**.
 1. Klicks **Vorschlagen und Bearbeiten** und senden Sie eine Pull-Anforderung (PA) mit Ihren Änderungen in der GitHub-Benutzeroberfläche.
 
-   Weitere Informationen finden Sie im allgemeinen [Adobe Docs Contributor Guide](https://experienceleague.adobe.com/docs/contributor/contributor-guide/introduction.html?lang=de)
+   Weitere Informationen finden Sie im allgemeinen [Adobe Docs Contributor Guide](https://experienceleague.adobe.com/docs/contributor/contributor-guide/introduction.html?lang=de).
 
-Kleinere Korrekturen oder Erläuterungen, die Sie für Dokumentation und Codebeispiele in diesem Repo einreichen, werden von den Adobe-Nutzungsbedingungen abgedeckt.
+Kleinere Korrekturen oder Erläuterungen, die Sie für Dokumentation und Code-Beispiele in diesem Repo einreichen, werden von den Adobe-Nutzungsbedingungen abgedeckt.
 
 ### Wichtige Änderungen oder neue Themen aus der Community
 
@@ -43,7 +43,7 @@ Wenn Sie Mitglied der Adobe-Community sind und ein neues Thema erstellen oder um
 
 Communitymitwirkende können die GitHub-UI zur grundlegenden Bearbeitung verwenden oder das Repo zum Beisteuern größerer Beiträge forken.
 
-Weitere Informationen finden Sie im [Adobe Docs Contributor Guide](https://experienceleague.adobe.com/docs/contributor/contributor-guide/introduction.html).
+Weitere Informationen finden Sie im [Adobe Docs Contributor Guide](https://experienceleague.adobe.com/docs/contributor/contributor-guide/introduction.html?lang=de).
 
 ## Interne Mitwirkende
 
@@ -53,8 +53,8 @@ Wenn Sie technischer Redakteur, Programmmanager oder Entwickler des Produktteams
 
 Alle Artikel in diesem Repository verwenden GitHub-Flavored Markdown. Wenn Sie mit Markdown nicht vertraut sind, lesen Sie:
 
-* [Markdown-Grundlagen](https://docs.github.com/de/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github)
-* [Druckbare Markdown-Anleitung](https://guides.github.com/pdfs/markdown-cheatsheet-online.pdf)
+* [Grundlagen zu Markdown](https://help.github.com/articles/getting-started-with-writing-and-formatting-on-github/)
+* [Druckbares Infoblatt zu Markdown](https://guides.github.com/pdfs/markdown-cheatsheet-online.pdf)
 
 ## Beschriftungen
 
